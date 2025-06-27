@@ -26,7 +26,7 @@ const (
 	keyHiddenClients      = "hiddenClients"
 	keyAuthentication     = "authentication"
 	keyPathRouting        = "pathRouting"
-	keyBaseServerURL      = "baseServerUrl"
+	keyBaseServerURL      = "baseServerURL"
 	keyWithDefaultFonts   = "withDefaultFonts"
 	keyServers            = "servers"
 	keyMetaData           = "metadata"
